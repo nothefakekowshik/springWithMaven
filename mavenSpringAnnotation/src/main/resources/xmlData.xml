@@ -13,8 +13,6 @@
 	
 	
 
-	<!-- <bean id="htmlReportGenerator" class="com.infosys.demo.HTMLReportGenerator" 
-		/> -->
 
 
 </beans>
